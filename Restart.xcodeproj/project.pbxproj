@@ -16,6 +16,8 @@
 		176955862858699C00FD86A3 /* RestartUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176955852858699C00FD86A3 /* RestartUITestsLaunchTests.swift */; };
 		176955942858725000FD86A3 /* success.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 176955922858725000FD86A3 /* success.m4a */; };
 		176955952858725000FD86A3 /* chimeup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 176955932858725000FD86A3 /* chimeup.mp3 */; };
+		1769559C28587D6100FD86A3 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1769559B28587D6100FD86A3 /* OnboardingView.swift */; };
+		1769559E28587D7400FD86A3 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1769559D28587D7400FD86A3 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		176955922858725000FD86A3 /* success.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = success.m4a; sourceTree = "<group>"; };
 		176955932858725000FD86A3 /* chimeup.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chimeup.mp3; sourceTree = "<group>"; };
 		1769559A28587C7900FD86A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		1769559B28587D6100FD86A3 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		1769559D28587D7400FD86A3 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +153,8 @@
 			isa = PBXGroup;
 			children = (
 				1769556A2858699A00FD86A3 /* ContentView.swift */,
+				1769559B28587D6100FD86A3 /* OnboardingView.swift */,
+				1769559D28587D7400FD86A3 /* HomeView.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -299,6 +305,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1769559C28587D6100FD86A3 /* OnboardingView.swift in Sources */,
+				1769559E28587D7400FD86A3 /* HomeView.swift in Sources */,
 				1769556B2858699A00FD86A3 /* ContentView.swift in Sources */,
 				176955692858699A00FD86A3 /* RestartApp.swift in Sources */,
 			);

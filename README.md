@@ -6,6 +6,10 @@ This codebase was created to demonstrate a simple application for iOS built with
 
 The goal was to train animation and transition in SwiftUI.
 
+It was made following the Credo course called SwiftUI Masterclass 2022
+
+Credo: https://credo.academy
+
 # How it works
 
 This is an application written in [Swift] that utilizes [SwiftUI] for developing the mobile app.

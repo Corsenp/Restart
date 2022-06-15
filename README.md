@@ -1,5 +1,7 @@
 # Restart
 
+<img src="https://github.com/Corsenp/Restart/blob/master/Onboarding.png" width="325">
+
 This codebase was created to demonstrate a simple application for iOS built with [SwiftUI]
 
 The goal was to train animation and transition in SwiftUI.
@@ -7,6 +9,10 @@ The goal was to train animation and transition in SwiftUI.
 # How it works
 
 This is an application written in [Swift] that utilizes [SwiftUI] for developing the mobile app.
+
+You have two screens and a slider to go to the second one.
+
+Interacting with the character on the first screen will demonstrate a simple parallax effect.
 
 # Getting started
 
